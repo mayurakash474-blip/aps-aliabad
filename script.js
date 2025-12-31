@@ -1,0 +1,1 @@
+// Logic moved to React components (App.tsx, etc.)
